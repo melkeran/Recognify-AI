@@ -54,7 +54,3 @@ python src/main.py
 ## ⚖️ License
 Distributed meticulously under the **MIT License**. See [LICENSE](LICENSE) for more legal information.  
 Copyright (c) 2026 Mohamed Elkeran
-
-## 👨‍💻 Author
-**Mohamed Elkeran** - AI Engineer & Developer.
-- GitHub: [@melkeran](https://github.com/melkeran)
